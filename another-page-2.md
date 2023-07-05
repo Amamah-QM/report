@@ -2,24 +2,20 @@
 layout: default
 ---
 
-## Week 1
+## Week 2
 
-I started the week by taking a tour of the museum, becoming familiar with my environment. I attended the weekly Lusail Team meeting and got acquainted with the people and their roles. After that, I was asked to observe the behavior of the guests at the museum. The purpose was to note what multimedia they interacted with, for how long and why.
+In my second week, I was tasked with creating an audio guide for the exhibits at Lusail Museum. I was asked to fork the repository from ACMI and edit it to suit the collection at Lusail Museum.
 
-Once I finished observation, I had to conduct surveys. The survey method was fairly straightforward; I would conduct a 1-1 interview with a guest, asking them questions from the survey and noting their responses. I was tasked with obtaining 20 survey results and I accomplished that in three days.
+The objective was to improve my skills gradually. I had to make an audio guide in English first, then in Arabic and then make one with a video incorporated into it. I was able to make the English audio guide with relative ease. I was able to make the Arabic guide go live next, but it took a bit longer than expected. I am unsure why it took the time it did, but the Arabic guide was functional.
 
-During the survey process, I was given a behind-the-scenes tour of the technology used at the museum, how and where it is housed and a brief rundown on how it is operated. The tour was informative and interesting, piquing my curiosity for the inner workings of different types of multimedia.
+Finally, I worked on the video guide. It was a challenge to compress the video enough to upload it to the repository. Once I got around that, I had to figure out how to make the video appear. I was able to change all text but I was unable to make the video play.
 
-Additionally, as AI is my specialty, I was asked to find tools that may help the team increase productivity. This allows me to look into tools I would have no reason to search for on my own, broadening the knowledge I can gain in my field. My findings will be presented in an upcoming team meeting.
+I ran into multiple issues making the pages go live. I am unsure why these issues keep happening but I suspect it has to do with upload delay because the changes I make appear eventually. It is a bit nerve-wracking not to see the effect my edits have, as my experience with GitHub is limited and I am not as confident as I would like to be with making the edits I have to. This leads to a lot of waiting for the changes to appear, which is ineffective. The consistent work on GitHub is extremely helpful in dealing with that. The more I work on GitHub, the more confident I become.
 
-Next, I had to process the data I obtained from the surveys. I chose to use Power BI, as it is a tool I have never used before and I want to take every opportunity to learn as much as I can. It took a bit of trial and error but I understood its basic functions, thereby being able to create visuals directly from the data.
+On a more light-hearted note, I also learned I have limited artistic skill in customizing colors. This is not as much of a limitation as indecisiveness affecting me. I have a hard time imagining what the different combinations would look like, but waiting for the changes to happen takes a few hours, so I have to make decisions based on limited information, which can lead to some humorous - and disastrous - combinations.
 
-Finally, I had to use GitHub to publish this report. I have never used GitHub and am fairly new to coding as a whole. It was a bit of a learning curve but by playing around with it, I managed to figure out how to make it work.
+In parallel, I continued my search for AI tools the team can use to increase productivity. I decided to focus on tools that can perform secretarial tasks, as they would be easiest to implement and should theoretically be more user-friendly.
 
-In parallel to these tasks, I was given videos to view, related to the use of innovative technology (AI or otherwise) to improve the guest experience at museums. I assessed the viability and value of these concepts to Qatar Museums and wrote a short report for each of them. The first video was regarding the use of AI to digitize and categorize entire museum collections all over the world to make them easily accessible; AI use was proposed to do the actual classification process. I believe that the real value there lies in digitizing exhibits to preserve them, rather than display them, as museums generally have a virtual version online anyway. Using AI to preserve these collections will allow future generations access to this information and these relics, even if something were to happen to them.
+I have learned a lot in the short time I've been here and I am looking forward to what I will be able to do as I progress with this internship.
 
-The second video was a behind-the-scenes tour of the ACMI museum in Australia. They used innovative technology to create the Lens: a disk that functions as a virtual diary of the guests’ visit. It allows them to store information about which exhibits they visit and then use that data to discover media outside of the museum related to their topics of interest. I believe their Lens is a great example of using multimedia to make the experience memorable and unique for the next visit.
-
-Overall, my first week has been an exciting new experience for me. As students, we always have the knowledge that a workplace is different from a university in terms of dynamics and duties. I learned that is possible to know that and still be surprised by how noticeable of a difference it is. I appreciate being given the opportunity to work in a supportive environment, related to the field I will be working in. I look forward to the coming weeks and the development they will bring.
-
-[back](./)
+[Back](./)
