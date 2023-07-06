@@ -25,10 +25,7 @@ The second video was a behind-the-scenes tour of the ACMI museum in Australia. T
 
 Overall, my first week has been an exciting new experience for me. As students, we always have the knowledge that a workplace is different from a university in terms of dynamics and duties. I learned that is possible to know that and still be surprised by how noticeable of a difference it is. I appreciate being given the opportunity to work in a supportive environment, related to the field I will be working in. I look forward to the coming weeks and the development they will bring.
 
-<div align="right">
   
 [Next: Week 2](./another-page-2.html)
-
-</div>
 
 [Back](./)
