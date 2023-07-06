@@ -4,6 +4,9 @@ layout: default
 
 ## Week 2
 
+![Life in the desert](/assets/images/nmoq_3.png)
+Image credit: Licht Kunst Licht AG
+
 In my second week, I was tasked with creating an audio guide for the exhibits at Lusail Museum. I was asked to fork the repository from ACMI and edit it to suit the collection at Lusail Museum.
 
 The objective was to improve my skills gradually. I had to make an audio guide in English first, then in Arabic and then make one with a video incorporated into it. I was able to make the English audio guide with relative ease. I was able to make the Arabic guide go live next, but it took a bit longer than expected. I am unsure why it took the time it did, but the Arabic guide was functional.
@@ -14,7 +17,9 @@ I ran into multiple issues making the pages go live. I am unsure why these issue
 
 On a more light-hearted note, I also learned I have limited artistic skill in customizing colors. This is not as much of a limitation as indecisiveness affecting me. I have a hard time imagining what the different combinations would look like, but waiting for the changes to happen takes a few hours, so I have to make decisions based on limited information, which can lead to some humorous - and disastrous - combinations.
 
-In parallel, I continued my search for AI tools the team can use to increase productivity. I decided to focus on tools that can perform secretarial tasks, as they would be easiest to implement and should theoretically be more user-friendly.
+Overall, I personally consider this task a success because I made massive strides in becoming more comfortable with GitHub. I was simultaneously working on making a better version of my blog alongside the audio guide, and I finished it this week. It is quite simplistic but it is a point of pride for me.
+
+Additionally, I continued my search for AI tools the team can use to increase productivity. I decided to focus on tools that can perform secretarial tasks, as they would be easiest to implement and should theoretically be more user-friendly.
 
 I have learned a lot in the short time I've been here and I am looking forward to what I will be able to do as I progress with this internship.
 
