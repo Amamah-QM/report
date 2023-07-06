@@ -4,6 +4,9 @@ layout: default
 
 ## Week 1
 
+![National Museum of Qatar](/assets/images/nmoq_2.jpg)
+Image credit: Licht Kunst Licht AG
+
 I started the week by taking a tour of the museum, becoming familiar with my environment. I attended the weekly Lusail Team meeting and got acquainted with the people and their roles. After that, I was asked to observe the behavior of the guests at the museum. The purpose was to note what multimedia they interacted with, for how long and why.
 
 Once I finished observation, I had to conduct surveys. The survey method was fairly straightforward; I would conduct a 1-1 interview with a guest, asking them questions from the survey and noting their responses. I was tasked with obtaining 20 survey results and I accomplished that in three days.
