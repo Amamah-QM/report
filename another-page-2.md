@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Week 2
-4 July 2023
+25 June/4 July 2023
 
 ![Life in the desert](/assets/images/nmoq_3.png)
 Image credit: Licht Kunst Licht AG
