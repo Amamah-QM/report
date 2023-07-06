@@ -3,6 +3,7 @@ layout: default
 ---
 
 ## Week 1
+18 June 2023
 
 ![National Museum of Qatar](/assets/images/nmoq_2.jpg)
 Image credit: Licht Kunst Licht AG
