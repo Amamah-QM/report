@@ -8,7 +8,7 @@ In my second week, I was tasked with creating an audio guide for the exhibits at
 
 The objective was to improve my skills gradually. I had to make an audio guide in English first, then in Arabic and then make one with a video incorporated into it. I was able to make the English audio guide with relative ease. I was able to make the Arabic guide go live next, but it took a bit longer than expected. I am unsure why it took the time it did, but the Arabic guide was functional.
 
-Finally, I worked on the video guide. It was a challenge to compress the video enough to upload it to the repository. Once I got around that, I had to figure out how to make the video appear. I was able to change all text but I was unable to make the video play.
+Finally, I worked on the video guide. It was a challenge to compress the video enough to upload it to the repository. Once I got around that, I had to figure out how to make the video appear. It took me some time but I found a way to make the video load on the page, and the whole guide was then complete.
 
 I ran into multiple issues making the pages go live. I am unsure why these issues keep happening but I suspect it has to do with upload delay because the changes I make appear eventually. It is a bit nerve-wracking not to see the effect my edits have, as my experience with GitHub is limited and I am not as confident as I would like to be with making the edits I have to. This leads to a lot of waiting for the changes to appear, which is ineffective. The consistent work on GitHub is extremely helpful in dealing with that. The more I work on GitHub, the more confident I become.
 
