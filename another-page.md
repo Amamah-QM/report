@@ -20,7 +20,7 @@ Additionally, as AI is my speciality, I was asked to find tools that may help th
 ### Data Analysis and Visualization
 Next, I had to process the data I obtained from the surveys. I chose to use Power BI, as it is a tool I have never used before and I want to take every opportunity to learn as much as I can. It took a bit of trial and error but I understood its basic functions, thereby being able to create visuals directly from the data.
 
-<img align="right" width="500" height="100" src="report/assets/images/power_bi.jpg">
+![Survey Illustration](/assets/images/power_bi.jpg)
 
 Finally, I had to use GitHub to publish this report. I have never used GitHub and am fairly new to coding as a whole. It was a bit of a learning curve but by playing around with it, I managed to figure out how to make it work.
 
