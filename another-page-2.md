@@ -9,7 +9,7 @@ layout: default
 *Image credit: Lawrence Alma-Tadema,* The Meeting of Antony and Cleopatra, *ca. 1884, oil on panel, 65.5 x 91.4 cm. Lusail Museum Collection. Photo: © Lusail Museum, Qatar Museums, 2022.*
 
 ### Task Summary
-In my second week, I was tasked with creating a prototype audio guide for the exhibits at Lusail Museum. I was asked to fork the repository from ACMI and edit it to suit the collection at Lusail Museum. The final product can be found here: [Lusail Museum Audio Guide](https://amamah-qm.github.io/)
+In my second week, I was tasked with creating a prototype audio guide for the exhibits at Lusail Museum. I was asked to fork the repository from ACMI and edit it to suit the collection at Lusail Museum. The final product can be found here: [Lusail Museum Audio Guide](https://amamah-qm.github.io/welcome)
 
 These codes can be scanned to access each individual stop:
 
