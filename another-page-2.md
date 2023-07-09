@@ -12,7 +12,7 @@ layout: default
 In my second week, I was tasked with creating a prototype audio guide for the exhibits at Lusail Museum. I was asked to fork the repository from ACMI and edit it to suit the collection at Lusail Museum. The final product can be found here: [Lusail Museum Audio Guide](https://amamah-qm.github.io/)
 
 These codes can be scanned to access each individual stop:
-<img align="left" width="100" height="100" src="/assets/images/stop 1.png"/>
+<img width="100" height="100" src="/assets/images/stop 1.png"/>
 
 The objective was to improve my skills gradually. I had to make an audio guide in English first, then in Arabic and then make one with a video incorporated into it. I was able to make the English audio guide with relative ease. I was able to make the Arabic guide go live next, but it took a bit longer than expected. I am unsure why it took the time it did, but the Arabic guide was functional.
 
