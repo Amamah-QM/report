@@ -6,7 +6,7 @@ layout: default
 18 June 2023
 
 ![National Museum of Qatar](/assets/images/nmoq_2.jpg)
-Image credit: Licht Kunst Licht AG
+*Image credit: Licht Kunst Licht AG*
 
 ### Introduction and Survey of Guests
 I started the week by taking a tour of the museum, becoming familiar with my environment. I attended the weekly Lusail Team meeting and got acquainted with the people and their roles. After that, I was asked to observe the behavior of the guests at the museum. The purpose was to note what multimedia they interacted with, for how long and why.
