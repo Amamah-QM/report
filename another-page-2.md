@@ -14,7 +14,7 @@ In my second week, I was tasked with creating a prototype audio guide for the ex
 These codes can be scanned to access each individual stop:
 
 
-<img align="left" width="100" height="100" src="./assets/images/stop 1.png"> <img align="center" width="100" height="100" src="./assets/images/stop frameless.png"> <img align="right" width="100" height="100" src="./assets/images/stop 3 frameless.png">
+<img align="left" width="100" height="100" src="./assets/images/stop 1.png"> <img align="center" width="100" height="100" src="./assets/images/stop 2 frameless.png"> <img align="right" width="100" height="100" src="./assets/images/stop 3 frameless.png">
 
 The objective was to improve my skills gradually. I had to make an audio guide in English first, then in Arabic and then make one with a video incorporated into it. I was able to make the English audio guide with relative ease. I was able to make the Arabic guide go live next, but it took a bit longer than expected. I am unsure why it took the time it did, but the Arabic guide was functional.
 
