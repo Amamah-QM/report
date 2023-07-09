@@ -5,11 +5,11 @@ layout: default
 ## Week 2
 25 June/4 July 2023
 
-![Cleopatra](/assets/images/cleopatra og.jpg)
+![Cleopatra](/assets/images/cleopatra_og.jpg)
 *Image credit: Lawrence Alma-Tadema,* The Meeting of Antony and Cleopatra, *ca. 1884, oil on panel, 65.5 x 91.4 cm. Lusail Museum Collection. Photo: © Lusail Museum, Qatar Museums, 2022.*
 
 ### Task Summary
-In my second week, I was tasked with creating an audio guide for the exhibits at Lusail Museum. I was asked to fork the repository from ACMI and edit it to suit the collection at Lusail Museum. The final product can be found here: [Lusail Museum Audio Guide](https://amamah-qm.github.io/)
+In my second week, I was tasked with creating a prototype audio guide for the exhibits at Lusail Museum. I was asked to fork the repository from ACMI and edit it to suit the collection at Lusail Museum. The final product can be found here: [Lusail Museum Audio Guide](https://amamah-qm.github.io/)
 
 The objective was to improve my skills gradually. I had to make an audio guide in English first, then in Arabic and then make one with a video incorporated into it. I was able to make the English audio guide with relative ease. I was able to make the Arabic guide go live next, but it took a bit longer than expected. I am unsure why it took the time it did, but the Arabic guide was functional.
 
