@@ -64,7 +64,7 @@ Here are additional images from the local version:
 
 ![Catalogue 1 Image 3](/assets/images/cat1img3.jpg)
 
-![Side panel](/assets/images/sidepanel.jpg)
+![Side panel 1](/assets/images/sidepanel.jpg) ![Side panel 2](/assets/images/sidepanel2.jpg)
 
 ### Challenges
 
