@@ -12,13 +12,15 @@ layout: default
 
 In my third week, I was tasked with creating a prototype exhibition catalogue for Lusail Museum's *Tales of a Connected World* collection. I was asked to use Quire, a multiplatform publishing tool released in 2022. Quire provided the infrastructure of the catalogue, which had to be edited using a text editor; the content was obtained from Lusail Museum's website.
 
-The final version can be found [here](https://amamah-qm.github.io/exhibition-catalogue/). However, due to reasons unknown, the website did not deploy with any of the styling that is available on the local server. As such, I've included some screenshots below, and through the rest of this post, of what the catalogue looks like locally.
+The final version can be found [here](https://amamah-qm.github.io/exhibition-catalogue/). However, due to reasons unknown, the website did not deploy correctly: it has none of the styling that is available on the local server and only the first page deployed correctly. As such, I've included some screenshots below, and through the rest of this post, of what the catalogue looks like locally.
 
 ![Front Page](/assets/images/frontpg.jpg)
 
 ![Contents Page](/assets/images/contents.jpg)
 
 ![Catalogue](/assets/images/cat.jpg)
+
+Additionally, I built a pdf version of the catalogue as part of the task. The creation of the pdf was successful; it displayed every page. However, it showed only two out of the 15 images in the whole catalogue and is styled only on some pages.
 
 I started the task on day 3; the first day was spent exploring AI tools (details below), and the second day was devoted to a tour of the 3-2-1 Qatar Olympics and Sports Museum, to explore different forms of multimedia and the varied ways in which the public can interact with them. 
 
@@ -30,7 +32,7 @@ Tl;dv has been quite popular recently and I thought it might be a good fit. The 
 
 The next program, Airgram, looked much more promising, as it had the same rating as tl;dv. Airgram provides more features for a lower cost and has integration with MS Teams. From the reviews, the integration is almost seamless, which I will test myself in the coming week.
 
-Unfortunately, I could not test Teams' internal software as I do not have access to it.
+Unfortunately, I could not assess Teams' internal software as I do not have access to it.
 
 I will also be looking into other AI software in the coming week, trying to explore what functions AI can reliably perform, while also offering intuitive user experiences.
 
@@ -58,6 +60,12 @@ Here are additional images from the local version:
 
 ![Essay](/assets/images/essay.jpg)
 
+![Catalogue 1 Image 2](/assets/images/cat1img2.jpg)
+
+![Catalogue 1 Image 3](/assets/images/cat1img3.jpg)
+
+![Side panel](/assets/images/sidepanel.jpg)
+
 ### Challenges
 
 This task was frankly much easier than the audio guide. There is a strong possibility that this is not an objective viewpoint, as the ease may just be a result of my slowly increasing familiarity with coding, however, that is what my experience was. I found the process fairly intuitive, and therefore, I did not run into nearly as many issues as last week. The issues I did face were these:
@@ -73,6 +81,8 @@ The second time around, it went a lot smoother. I refreshed the preview after ev
 My workaround to this issue was an ill-advised one: I edited the color properties in the colors.scss file. This file stated color variables like "$black", "$red", "$off-black-semi-transparent", etc. and had the appropriate hex code assigned to each variable. I edited the hex code to the Lusail Museum's brand colors and left the variable names as they were. This proved effective and I was able to edit the colors as I wanted. 
 
 Incidentally, this is the same fix I implemented for the images; wherein I changed the source but left the IDs as they were. It was equally effective in that case. I do believe that this approach is ill-advised as I need to learn to be able to customize the variables to fit my needs, but for the short-term, I favored effectuality over diligence.
+
+As mentioned above, I did run into issues with the final website deployment and pdf building process. Both did not turn out correctly but I believe both have workarounds that I could find with more time and, preferably, a little more expertise.
  
 ### Conclusion
 
