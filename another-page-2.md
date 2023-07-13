@@ -36,6 +36,6 @@ I have learned a lot in the short time I've been here and I am looking forward t
 
 [Next: Week 3](./another-page-3.html)
 
-[Previous: Week 1](./another-page.html)
+[Prev: Week 1](./another-page.html)
 
 [Back](./)
