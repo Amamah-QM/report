@@ -34,6 +34,8 @@ Additionally, I continued my search for AI tools the team can use to increase pr
 
 I have learned a lot in the short time I've been here and I am looking forward to what I will be able to do as I progress with this internship.
 
+[Next: Week 3](./another-page-3.html)
+
 [Previous: Week 1](./another-page.html)
 
 [Back](./)
