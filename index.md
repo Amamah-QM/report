@@ -6,7 +6,7 @@ layout: default
 
 The purpose of this blog is to record any activities, tasks and duties I undertake during the week, what I learn from them, and what I hope to explore next over the course of my internship at Lusail Museum.
 
-[Week 1](./another-page.html)
+[Week 1](./Week-1.html)
 
 [Week 2](./another-page-2.html)
 
