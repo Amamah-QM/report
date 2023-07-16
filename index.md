@@ -8,6 +8,6 @@ The purpose of this blog is to record any activities, tasks and duties I underta
 
 [Week 1](./Week-1.html)
 
-[Week 2](./another-page-2.html)
+[Week 2](./Week-2.html)
 
-[Week 3](./another-page-3.html)
+[Week 3](./Week-3.html)
