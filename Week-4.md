@@ -5,17 +5,17 @@ layout: default
 ## Week 4
 16 July 2023
 
-![Cleopatra](/assets/images/cleopatra_og.jpg)
-*Image credit: Lawrence Alma-Tadema,* The Meeting of Antony and Cleopatra, *ca. 1884, oil on panel, 65.5 x 91.4 cm. Lusail Museum Collection. Photo: © Lusail Museum, Qatar Museums, 2022.*
+![Desert](/assets/images/img3.jpg)
+*Eugène Delacroix,* Arab Horseman at the Gallop, *1849, oil on canvas, 54 x 45.1 cm. Lusail Museum Collection. Photo: © Lusail Museum, Qatar Museums, 2022.*
 
 ### Task Summary
-In my fourth week, I was tasked with searching for AI tools that could increase the productivity of the Lusail Team by taking over mundane, repetitive tasks, for example. This had been an ongoing exploration since my first week and it was finally time to bring it all together.
+In my fourth week, I was tasked with searching for AI tools that could increase the productivity of the Lusail Team; by taking over mundane, repetitive tasks, for example. This had been an ongoing exploration since my first week and it was finally time to bring it all together.
 
 Initially, I had been asked to look into transcription tools for online meetings. MS Teams already had a feature that allowed transcription (using another app called Stream) that I was asked to test out but I did not have access to that feature, so I began looking into external tools that performed the same function.
 
 In parallel, I also looked into other functions AI could perform. Content generation was a disqualified category due to instances of fake content generation ("AI hallucination"), so I looked into the automation of tasks, like making presentations or having to type out the same type of email several times. These are tasks that need to be done but are simple enough that they could be automated, in theory.
 
-Additionally, I also looked into secretarial tools that would help individuals keep track of their schedules, assist with to-do list items and help with writing by performing grammar and spelling checks.
+Finally, I also looked into secretarial tools that would help individuals keep track of their schedules, assist with to-do list items and help with writing by performing grammar and spelling checks.
 
 ### Tools
 To discuss my findings, I've divided the categories into the following: auto-transcription, automation and tools to explore further.
@@ -23,25 +23,39 @@ To discuss my findings, I've divided the categories into the following: auto-tra
 #### Auto-transcription
 As mentioned earlier, I did not have access to the transcription service on Stream until this week, so in the meantime, I explored tools like Tl;dv and Airgram. They are both apps that can generate transcripts for online meetings, alongside meeting minutes and tags. It is also possible to upload meeting recordings and perform the same functions for them. They also had additional features like scheduling meetings on Teams and joining the scheduled meetings automatically to start note-taking automatically. Tl;dv, unfortunately, did not have the option for Teams integration, so it had to be discarded. Airgram seemed like a better fit.
 
+![Automatically generated Teams meeting transcript](/assets/images/transcript.jpg)
+
 Then I had the opportunity to test the Stream transcript generation feature and much simpler to use, in terms of not requiring any additional installation and being available to all team members already. The generation itself was just a matter of a few clicks and did not require any pre-requisite knowledge of programming, making it the obvious best choice.
 
 #### Automation using Power Automate
+I discovered Power Automate when I was looking for a way to automate the process of generating transcripts for Teams meetings. I had no prior knowledge of its existence; I found it as I was looking through all of the Microsoft Apps available to me via the QM account. Learning how to use Automate was a journey. Personally, I wouldn't say I like watching video tutorials; I prefer reading guides or instructions and then resorting to video tutorials if nothing works. It took a fair amount of reading, trial and error, and watching video tutorials to figure out how to work with Automate. At one point, I even ended up doing a Microsoft course and completing a module.
 
+At the end of it all, I used Automate to design a program that would notify a user via email and Teams that a file had been uploaded to a specific OneDrive folder. Originally, I wanted to do that for SharePoint, as that is most used by the team, but I didn't have upload access to SharePoint, meaning I couldn't test it, so I decided to substitute OneDrive as the closest functioning app. After several tests, the program worked successfully.
+
+![Automatically schedule meeting from Teams message](/assets/images/teams_meeting_automate.jpg)
+
+As a precursor to that main program, I made a smaller one that would allow a user to directly schedule meetings from a Teams message. It was just something I put together to make sure I knew how to integrate Automate with Teams and other apps (like Outlook Calendar). It was also successful, which gave me the confidence to actually move forward with the notification automation.
 
 #### Tools to explore further
+In addition to everything else, I also looked into secretarial tools: so to-do list managers, spell checkers, presentation makers and image generators.
 
+Microsoft Designer (different from MS PowerPoint Designer) is an in-beta alternative to Canva with an added AI image generator. I played around with it for a bit, thinking it might be useful for marketing purposes. My personal opinion is that it is much easier to use than Canva but that's the extent of its usefulness. The image generator has the same issues as an AI image generator, where it cannot generate images with human subjects without giving the human extra appendages or strange features.
+
+![Automatically generated presentation](/assets/images/presentation.jpg)
+
+I also tried many presentation makers. There are generators that just create designed slides, while others do the same but also generate content based on the prompt you enter at the beginning. Naturally, the generated content is very basic but it provides a solid base to build your own presentation. The slide decks themselves were fairly impressive and cut down a lot of work that would otherwise be done manually but most of the generators have a limited selection of slide decks that presume what you're using them for (business proposal, product proposal, etc.), which, in turn, means that you have to edit them the farther you are from their intended purpose. As such, I did not use it to make the presentation for my demo in the upcoming weekly meeting, even though that was my intention.
+
+Furthermore, I looked into Notion, which provides a space where users can store their notes and files, collaborate with team members, schedule meetings, etc. It comes with a built-in AI that allows you to manage tasks and provides spell check and writing help. My review is that it is a helpful tool but unless the Team makes a collective move to the platform, the benefits it offers are limited.
+
+Finally, I looked for tools that could automate mundane tasks, such as typing repetitive emails. I found Text Blaze, which allows users to assign keyboard shortcuts to pre-written text templates, submitted by the user. So, essentially, the user would only have to type the email ( or text message or reply) once and then every time after that, they would just have to enter the shortcut, making the task much shorter. The text could then also be customized according to their needs. It is a very useful tool for individuals and, as it is a web browser extension, it is also very easy to use. There are more complex features offered by Text Blaze but they are both paid and less user intuitive, making them unsuitable for my task.
 
 ### Challenges
-I ran into multiple issues making the pages go live. I am unsure why these issues keep happening but I suspect it has to do with upload delay because the changes I make appear eventually. It is a bit nerve-wracking not to see the effect my edits have, as my experience with GitHub is limited and I am not as confident as I would like to be with making the edits I have to. This leads to a lot of waiting for the changes to appear, which is ineffective. The consistent work on GitHub is extremely helpful in dealing with that. The more I work on GitHub, the more confident I become.
-
-On a more light-hearted note, I also learned I have limited artistic skill in customizing colors. This is not as much of a limitation as indecisiveness affecting me. I have a hard time imagining what the different combinations would look like, but waiting for the changes to happen takes a few hours, so I have to make decisions based on limited information, which can lead to some humorous - and disastrous - combinations.
+The biggest challenge I faced was the lack of structure. With every task before this, I had a definite goal to meet, I had milestones to make sure I was on track, and I had directions to follow. This task was more freestyle, and so, required more exploration and discipline than the rest. I had to come up with my own goals, milestones and directions, which I struggled a little with. "AI Tools" is a very broad description and it was a challenge to think of activities that AI would help with, especially considering that AI is still very developmental and vulnerable to data breaches. On top of that, the work environment has very limited uses for AI; in a school setting, if one was inclined, one could automate essay writing, research, and even study. With office work, the roles are much more limited. It may also have seemed so because this is my first real experience in a work setting. I do believe that with time, however, a larger variety of tools (with better quality features) will become available to assist with more specialized tasks. The focus should be on ensuring we keep up with technology so we know when it is safe to use and how to use it.
 
 ### Conclusion
-Overall, I personally consider this task a success because I made massive strides in becoming more comfortable with GitHub. I was simultaneously working on making a better version of my blog alongside the audio guide, and I finished it this week. It is quite simplistic but it is a point of pride for me.
+Overall, I learned a lot about AI tools and artificial intelligence, in general in the process of finishing this task. This insight will be invaluable to me as I progress with my degree and I am very grateful that I had the opportunity to experiment, particularly with Power Automate. I truly believe that with more knowledge, I could build better automation systems working with Automate, which is an exciting prospect. I also have a better appreciation for people who train AI models; from my end, it does feel like a difficult task, especially since every user will want to use the tool in a customizable way. This has given me an appreciation for my field and has made me more excited about the things I will learn. 
 
-Additionally, I continued my search for AI tools the team can use to increase productivity. I decided to focus on tools that can perform secretarial tasks, as they would be easiest to implement and should theoretically be more user-friendly.
-
-I have learned a lot in the short time I've been here and I am looking forward to what I will be able to do as I progress with this internship.
+I now have a week left until this internship ends, which is honestly more bittersweet than I thought it would be. I am excited for the next week and am looking forward to what I will learn in the time I have left.
 
 [Previous: Week 3](./Week-3.html)
 
