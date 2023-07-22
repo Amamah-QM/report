@@ -92,7 +92,8 @@ Overall, my third week was highly productive and enlightening. With every task I
 
 With every challenge that I face and overcome, I'm growing exponentially in terms of skill. I am grateful for this opportunity and I am excited to see where I will be, skill-wise, at the time of the next weekly report.
 
-  
+[Next: Week 4](./Week-4.html)
+
 [Prev: Week 2](./Week-2.html)
 
 [Back](./)
