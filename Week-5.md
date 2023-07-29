@@ -57,6 +57,6 @@ Thank you for everything. You were a fantastic mentor and I will always be grate
 
 As this report comes to a close, alongside my internship, I have one final thing to say: thank you to everyone who played a part in bringing me here. Here's hoping for many more good times to come for us all.
 
-[Previous: Week 4](./Week-4.html)
+[Prev: Week 4](./Week-4.html)
 
 [Back](./)
