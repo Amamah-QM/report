@@ -63,6 +63,8 @@ I also have a better appreciation for people who train AI models; from my end, i
 
 I now have a week left until this internship ends, which is honestly more bittersweet than I thought it would be. I am excited for the next week and am looking forward to what I will learn in the time I have left.
 
+[Next: Week 5](./Week-5.html)
+
 [Previous: Week 3](./Week-3.html)
 
 [Back](./)
