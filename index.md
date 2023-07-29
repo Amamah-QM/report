@@ -13,3 +13,5 @@ The purpose of this blog is to record any activities, tasks and duties I underta
 [Week 3](./Week-3.html)
 
 [Week 4](./Week-4.html)
+
+[Week 5](./Week-5.html)
