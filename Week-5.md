@@ -2,61 +2,61 @@
 layout: default
 ---
 
-## Week 4
-16 July 2023
+## Week 5
+23 July 2023
 
-![Desert](/assets/images/img3.jpg)
-*Eugène Delacroix,* Arab Horseman at the Gallop, *1849, oil on canvas, 54 x 45.1 cm. Lusail Museum Collection. Photo: © Lusail Museum, Qatar Museums, 2022.*
+![An Arms Dealer in Cairo](/assets/images/header.jpg)
+*Jean-Léon Gérôme,* An Arms Dealer in Cairo, *1869, oil on panel, 55.9 x 44.8 cm. Lusail Museum Collection. Photo: © Lusail Museum, Qatar Museums, 2022.*
 
 ### Task Summary
-In my fourth week, I was tasked with searching for AI tools that could increase the productivity of the Lusail Team; by taking over mundane, repetitive tasks, for example. This had been an ongoing exploration since my first week and it was finally time to bring it all together.
+In my fifth - and final - week, I was tasked with using the Arduino microcontroller alongside RFID sensors to create a functioning prototype that could be used in the museum. This was to be done as a group project with Tooba, my fellow intern. I was also asked to present the AI tools I had found to the Lusail Team during our weekly meeting. 
 
-Initially, I had been asked to look into transcription tools for online meetings. MS Teams already had a feature that allowed transcription (using another app called Stream) that I was asked to test out but I did not have access to that feature, so I began looking into external tools that performed the same function.
+Unfortunately, I was extremely ill for the majority of the week, so I was unable to do as much as I did during previous weeks. However, I did learn a lot in the short time I did have to work on my given tasks.
 
-In parallel, I also looked into other functions AI could perform. Content generation was a disqualified category due to instances of fake content generation ("AI hallucination"), so I looked into the automation of tasks, like making presentations or having to type out the same type of email several times. These are tasks that need to be done but are simple enough that they could be automated, in theory.
+### The Presentation
+Chronologically, the presentation was the first task I had to tackle. I am uncomfortable speaking in public - which is a step up from the outright, paralysing stage fright I used to have - so I had to mentally prepare myself for this presentation. I had finished the design the previous week, and the only thing that remained was the final touches.
 
-Finally, I also looked into secretarial tools that would help individuals keep track of their schedules, assist with to-do list items and help with writing by performing grammar and spelling checks.
+![Presentation](/assets/images/w5.jpg)
 
-### Tools
-To discuss my findings, I've divided the categories into the following: auto-transcription, automation and tools to explore further.
+This presentation was supposed to take place on Sunday, 23rd July. However, our meeting was pushed back a day, so it took place on Monday. In light of that, I utilized Sunday to refine the content on my slides and removed certain arbitrary tools that I didn't feel were relevant.
 
-#### Auto-transcription
-As mentioned earlier, I did not have access to the transcription service on Stream until this week, so in the meantime, I explored tools like Tl;dv and Airgram. They are both apps that can generate transcripts for online meetings, alongside meeting minutes and tags. It is also possible to upload meeting recordings and perform the same functions for them. They also had additional features like scheduling meetings on Teams and joining the scheduled meetings automatically to start note-taking automatically. Tl;dv, unfortunately, did not have the option for Teams integration, so it had to be discarded. Airgram seemed like a better fit.
+![Power Automate](/assets/images/w5_2.jpg)
 
-![Automatically generated Teams meeting transcript](/assets/images/transcript.jpg)
+On Monday, I did the presentation and answered the questions the Team had about AI, giving them my recommendations on how AI can be best utilized in its current state, given all the security risks and bad faith actors that may be developing tools using illegal data scraping.
 
-Then I had the opportunity to test the Stream transcript generation feature and much simpler to use, in terms of not requiring any additional installation and being available to all team members already. The generation itself was just a matter of a few clicks and did not require any pre-requisite knowledge of programming, making it the obvious best choice.
+Afterwards, I felt like the presentation went well enough but that I could have done better. However, that may not be objectively true as my presentation did impress certain members of the Team.
 
-#### Automation using Power Automate
-I discovered Power Automate when I was looking for a way to automate the process of generating transcripts for Teams meetings. I had no prior knowledge of its existence; I found it as I was looking through all of the Microsoft Apps available to me via the QM account. Learning how to use Automate was a journey. Personally, I wouldn't say I like watching video tutorials; I prefer reading guides or instructions and then resorting to video tutorials if nothing works. It took a fair amount of reading, trial and error, and watching video tutorials to figure out how to work with Automate. At one point, I even ended up doing a Microsoft course and completing a module.
+### The Hardware
+I did not have an opportunity to work with the hardware until Thursday, due to my illness but I was given access to a multitude of sources by my supervisor, to give me an idea of where to start. I spent all of Sunday-Wednesday going through those sources and learning about the principles of human-centered design and the design thinking process. The principles themselves weren't new to me; a lot of the same principles are involved in entrepreneurship, which is a field I have been immersed in for the better part of three years. What was new, however, was the way they were applied in the museum setting.
 
-At the end of it all, I used Automate to design a program that would notify a user via email and Teams that a file had been uploaded to a specific OneDrive folder. Originally, I wanted to do that for SharePoint, as that is most used by the team, but I didn't have upload access to SharePoint, meaning I couldn't test it, so I decided to substitute OneDrive as the closest functioning app. After several tests, the program worked successfully.
+I had already watched an explanation of the Lens at ACMI (an Australian museum with a focus on digital representations of art) from the makers of the Lens, but it was fascinating to read about the Pen at Cooper Hewitt. It showed a lot of the challenges that go into designing something so integral to the visitor experience. 
 
-![Automatically schedule meeting from Teams message](/assets/images/teams_meeting_automate.jpg)
+I also had access to the Tangible Media Group's projects, which showcased a massive range of the different ways in which technology can be used to display visuals, beyond just visuals on a screen.
 
-As a precursor to that main program, I made a smaller one that would allow a user to directly schedule meetings from a Teams message. It was just something I put together to make sure I knew how to integrate Automate with Teams and other apps (like Outlook Calendar). It was also successful, which gave me the confidence to actually move forward with the notification automation.
+Tooba and I brainstormed for a bit and came up with an idea to try to transform the audio guide QR code into a compatible form with the RFID scanner, so people could just scan "access" cards and be able to listen to the audio guide. We also played around with ideas of building temperature sensors that could be accessed from phones but all of these were vague ideas that we weren't even sure were possible.
 
-#### Tools to explore further
-In addition to everything else, I also looked into secretarial tools: so to-do list managers, spell checkers, presentation makers and image generators.
+In the end, we ended up working separately to make the Arduino microcontroller work with an LCD screen, the RFID scanner and then the RFID scanner and a couple of LEDs. The code was available online, so it was quite easy for me to work with the hardware itself, as I have experience working with Arduino. I ran into an issue with the LCD where the text would not display, which I was unable to troubleshoot. It seems like an issue in the code but I cannot be sure.
 
-Microsoft Designer (different from MS PowerPoint Designer) is an in-beta alternative to Canva with an added AI image generator. I played around with it for a bit, thinking it might be useful for marketing purposes. My personal opinion is that it is much easier to use than Canva but that's the extent of its usefulness. The image generator has the same issues as an AI image generator, where it cannot generate images with human subjects without giving the human extra appendages or strange features.
+![RFID scanner code](/assets/images/w5_3.jpg)
 
-![Automatically generated presentation](/assets/images/presentation.jpg)
-
-I also tried many presentation makers. There are generators that just create designed slides, while others do the same but also generate content based on the prompt you enter at the beginning. Naturally, the generated content is very basic but it provides a solid base to build your own presentation. The slide decks themselves were fairly impressive and cut down a lot of work that would otherwise be done manually but most of the generators have a limited selection of slide decks that presume what you're using them for (business proposal, product proposal, etc.), which, in turn, means that you have to edit them the farther you are from their intended purpose. As such, I did not use it to make the presentation for my demo in the upcoming weekly meeting, even though that was my intention.
-
-Furthermore, I looked into Notion, which provides a space where users can store their notes and files, collaborate with team members, schedule meetings, etc. It comes with a built-in AI that allows you to manage tasks and provides spell check and writing help. My review is that it is a helpful tool but unless the Team makes a collective move to the platform, the benefits it offers are limited.
-
-Finally, I looked for tools that could automate mundane tasks, such as typing repetitive emails. I found Text Blaze, which allows users to assign keyboard shortcuts to pre-written text templates, submitted by the user. So, essentially, the user would only have to type the email ( or text message or reply) once and then every time after that, they would just have to enter the shortcut, making the task much shorter. The text could then also be customized according to their needs. It is a very useful tool for individuals and, as it is a web browser extension, it is also very easy to use. There are more complex features offered by Text Blaze but they are both paid and less user intuitive, making them unsuitable for my task.
+The RFID scanner I managed to make work quite easily. There was an issue where it stopped scanning for a bit, but I got it working again after a few Google searches. I also got it to work with the LEDs, which was quite exciting.
 
 ### Challenges
-The biggest challenge I faced was the lack of structure. With every task before this, I had a definite goal to meet, I had milestones to make sure I was on track, and I had directions to follow. This task was more freestyle, and so, required more exploration and discipline than the rest. I had to come up with my own goals, milestones and directions, which I struggled a little with. "AI Tools" is a very broad description and it was a challenge to think of activities that AI would help with, especially considering that AI is still very developmental and vulnerable to data breaches. On top of that, the work environment has very limited uses for AI; in a school setting, if one was inclined, one could automate essay writing, research, and even study. With office work, the roles are much more limited. It may also have seemed so because this is my first real experience in a work setting. I do believe that with time, however, a larger variety of tools (with better quality features) will become available to assist with more specialized tasks. The focus should be on ensuring we keep up with technology so we know when it is safe to use and how to use it.
+The biggest challenge this week was my health. I was sick all week, which affected my ability to focus and be productive. At the time of writing this report, I am much better, for which I am grateful. 
+
+Aside from that, I had a hard time with the RFID scanner, as I mentioned earlier. It scanned perfectly the first time but for an hour after the first test, the scanner would not detect any card. I thought the problem could have been with the scanner itself, as I had used my QM card to test it, which may have caused an issue. However, after extensive searching and troubleshooting, I realized it was a connection problem; the physical connections between the Arduino and the scanner were loose, which was causing the issue I was facing. I remedied that by holding the connections together manually during tests and that fixed the problem. Sometimes, it really is that simple :)
 
 ### Conclusion
-Overall, I learned a lot about AI tools and artificial intelligence, in general in the process of finishing this task. This insight will be invaluable to me as I progress with my degree and I am very grateful that I had the opportunity to experiment, particularly with Power Automate. I truly believe that with more knowledge, I could build better automation systems working with Automate, which is an exciting prospect. I also have a better appreciation for people who train AI models; from my end, it does feel like a difficult task, especially since every user will want to use the tool in a customizable way. This has given me an appreciation for my field and has made me more excited about the things I will learn. 
+Overall, I learned a lot about the process of integrating technology into the visitor experience. This is unique insight because as a visitor, I would never have the chance to learn what it takes and how much extensive research and testing it takes to create something that adds value to a guest's experience.
 
-I now have a week left until this internship ends, which is honestly more bittersweet than I thought it would be. I am excited for the next week and am looking forward to what I will learn in the time I have left.
+Over the course of this internship, that has been a recurring theme: gaining insights into areas that I normally wouldn't even consider. I am extremely grateful that I had the opportunity to experience everything I did. The last couple of months have been some of the most challenging; I have had to tackle projects that I don't know the first thing about. I have felt underqualified and overwhelmed. It definitely tested my resilience and my ability to learn under pressure. But I am glad that I pushed through and strove to learn as much as I could; I learned a lot more than I thought I would at the beginning, and I am excited to be able to apply this knowledge in my career. 
 
-[Previous: Week 3](./Week-3.html)
+I also have to take a moment to thank my supervisor, Christophe, as none of this would have been possible without him. Christophe was extremely patient and supportive throughout this whole process, which gave me the confidence to continue. He gave clear instructions and provided feedback and guidance whenever I asked, and was instrumental to the success of this internship. All of the progress I made over the course of this internship has been in large part due to his actions. 
+
+Thank you for everything. You were a fantastic mentor and I will always be grateful for the opportunity you gave me.
+
+As this report comes to a close, alongside my internship, I have one final thing to say: thank you to everyone who played a part in bringing me here. Here's hoping for many more good times to come for us all.
+
+[Previous: Week 4](./Week-4.html)
 
 [Back](./)
