@@ -65,6 +65,6 @@ I now have a week left until this internship ends, which is honestly more bitter
 
 [Next: Week 5](./Week-5.html)
 
-[Previous: Week 3](./Week-3.html)
+[Prev: Week 3](./Week-3.html)
 
 [Back](./)
